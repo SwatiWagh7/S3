@@ -92,14 +92,4 @@ You can enable additional S3 features such as:
 <img width="1032" height="338" alt="image" src="https://github.com/user-attachments/assets/76d9c4c8-8349-4bcf-bbd1-2974d6f731d6" />
 
 
-| Storage Class | Description | Ideal For | Cost | Availability Zone(s) |
-|----------------|--------------|------------|------|----------------------|
-| **S3 Standard** | Default, highly durable, low latency | Frequent access | 💲💲 | Multi-AZ |
-| **S3 Standard-IA (Infrequent Access)** | Cost-effective, reliable | Infrequent access | 💲 | Multi-AZ |
-| **S3 Intelligent-Tiering** | Automatically moves data between tiers | Variable usage patterns | 💲💲 | Multi-AZ |
-| **S3 One Zone-IA** | Lower cost, reduced durability | Non-critical data | 💲 | Single-AZ |
-| **S3 Glacier Instant Retrieval** | Very low cost, quick retrieval | Archival data | 💲 | Multi-AZ |
-| **S3 Glacier Flexible Retrieval** | Flexible retrieval (minutes to hours) | Long-term archive | 💲 | Multi-AZ |
-| **S3 Glacier Deep Archive** | Lowest cost, 12-hour retrieval | Rarely accessed data | 💲 | Multi-AZ |
-
-
+<img width="1824" height="1528" alt="image" src="https://github.com/user-attachments/assets/f15e77d6-c55b-4c50-8b7d-848a02729c60" />
